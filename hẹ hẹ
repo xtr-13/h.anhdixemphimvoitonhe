@@ -1,0 +1,23 @@
+ <html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Date</title>
+    <link rel="stylesheet" href="date.css">
+  </head>
+  <body>
+      
+    <h1 title="choose a date">Cảm ơn H.anh đã đồng ý hẹ hẹ
+Chúc Hồng Ánh ngủ ngoan...</h1>
+ <form class="form-group">
+    
+      <label></label>
+      <div>
+        <input type="date">
+        <button class="button" type="submit" formaction="food.html" fdprocessedid="xb8sam">
+          Ấn vào đây
+        </button>
+      </div>
+    </form>
+  
+
+<span id="PING_IFRAME_FORM_DETECTION" style="display: none;"></span></body></html>
